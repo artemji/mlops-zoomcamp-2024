@@ -173,3 +173,5 @@ cython_debug/
 **model.bin
 
 **/workspace
+
+**/localstack
